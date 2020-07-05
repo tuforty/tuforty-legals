@@ -141,7 +141,7 @@ Service and its original content \(excluding Content provided by users\), featur
 
 We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on Service infringes on the copyright or other intellectual property rights \(“**Infringement**”\) of any person or entity.
 
-If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to complaints@tuforty.com, with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below, under “DMCA Notice and Procedure for Copyright Infringement Claims”
+If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to copyright@tuforty.com, with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below, under “DMCA Notice and Procedure for Copyright Infringement Claims”
 
 You may be held accountable for damages \(including costs and attorneys' fees\) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright.
 
@@ -156,7 +156,7 @@ You may submit a notification pursuant to the Digital Millennium Copyright Act \
 5. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 6. A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-You can contact our Copyright Agent via email at complaints@tuforty.com
+You can contact our Copyright Agent via email at copyright@tuforty.com
 
 **Error Reporting and Feedback**
 
